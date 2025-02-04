@@ -35,7 +35,7 @@ pomodoro technique.
 
 - Active Learning.
 - Keep Practice.
-- if Good understanding in any topic then explain to someone.
+- If good understanding in any topic then explain to someone.
 - Manage your time By any app.
 
 
